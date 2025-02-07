@@ -5,3 +5,7 @@ This project demonstrates how to use the `requests` library in Python to interac
 - Making **POST**, **PUT**, **PATCH**, and **DELETE** requests.
 - Handling **redirects** and inspecting response headers.
   
+The project is designed to help you:
+- Understand the basics of HTTP methods.
+- Learn how to send and receive data from APIs.
+- Practice working with response status codes, headers, and JSON data.
