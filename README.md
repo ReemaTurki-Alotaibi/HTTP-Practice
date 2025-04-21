@@ -1,11 +1,19 @@
-# HTTP Practice Project
-## Project Overview
-This project demonstrates how to use the `requests` library in Python to interact with APIs. It includes:
-- Making **GET** requests with and without parameters.
-- Making **POST**, **PUT**, **PATCH**, and **DELETE** requests.
-- Handling **redirects** and inspecting response headers.
-  
-The project is designed to help you:
-- Understand the basics of HTTP methods.
-- Learn how to send and receive data from APIs.
-- Practice working with response status codes, headers, and JSON data.
+# HTTP Requests Testing with Python 🧪
+
+This project demonstrates how to perform and test various HTTP requests using Python's `requests` library. It includes GET, POST, PUT, PATCH, DELETE, and REDIRECT handling with proper error handling and test automation.
+
+---
+
+## 📌 Features
+
+- ✅ Basic GET request
+- ✅ GET with parameters
+- ✅ POST request with JSON body
+- ✅ PUT and PATCH for updating resources
+- ✅ DELETE request simulation
+- ✅ Redirect response and header inspection
+- ✅ Error handling with `try/except`
+- ✅ Automated tests for each function
+
+---
+
